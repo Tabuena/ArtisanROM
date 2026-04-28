@@ -585,6 +585,7 @@ PRINT_HEADER()
     echo -n "Welcome to ArtisanROM $ROM_CODENAME $ROM_VERSION for $TARGET_NAME!"
     echo    '");'
     echo    'ui_print("ArtisanROM developed by Android Artisan @XDAforums");'
+    echo    'ui_print("ExtremeROM developed by ExtremeXT @XDAforums");'
     echo    'ui_print("Initial UN1CA build system coded by salvo_giangri @XDAforums");'
     echo    'ui_print("Special thanks to all ArtisanROM Maintainers, Contributors and Testers");'
     echo    'ui_print("****************************************************");'
