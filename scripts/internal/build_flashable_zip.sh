@@ -585,9 +585,8 @@ PRINT_HEADER()
     echo -n "Welcome to ArtisanROM $ROM_CODENAME $ROM_VERSION for $TARGET_NAME!"
     echo    '");'
     echo    'ui_print("ArtisanROM developed by Android Artisan @XDAforums");'
-    echo    'ui_print("ExtremeROM developed by ExtremeXT @XDAforums");'
     echo    'ui_print("Initial UN1CA build system coded by salvo_giangri @XDAforums");'
-    echo    'ui_print("Special thanks to all ExtremeROM Maintainers, Contribuitors and Testers");'
+    echo    'ui_print("Special thanks to all ArtisanROM Maintainers, Contributors and Testers");'
     echo    'ui_print("****************************************************");'
     echo -n 'ui_print("'
     echo -n "One UI version: $ONEUI_VERSION"
@@ -599,11 +598,12 @@ PRINT_HEADER()
     echo -n "Target: $TARGET_FINGERPRINT"
     echo    '");'
     echo    'ui_print("****************************************************");'
-    echo    'ui_print("   ____     __                    ___  ____  __  ___");'
-    echo    'ui_print("  / __/_ __/ /________ __ _  ___ / _ \/ __ \/  |/  /");'
-    echo    "ui_print(\" / _/ \ \ / __/ __/ -_)  ' \/ -_) , _/ /_/ / /|_/ / \");"
-    echo    'ui_print("/___//_\_\\\__/_/  \__/_/_/_/\__/_/|_|\____/_/  /_/  ");'
-    echo    'ui_print("                                                    ");'
+    echo    'ui_print("    ___         __  _                  ____  ____  __  ___");'
+    echo    'ui_print("   /   |  _____/ /_(_)________ _____  / __ \/ __ \/  |/  /");'
+    echo    'ui_print("  / /| | / ___/ __/ / ___/ __ `/ __ \/ /_/ / / / / /|_/ /");'
+    echo    'ui_print(" / ___ |/ /  / /_/ (__  ) /_/ / / / / _, _/ /_/ / /  / / ");'
+    echo    'ui_print("/_/  |_/_/   \__/_/____/\__,_/_/ /_/_/ |_|\____/_/  /_/  ");'
+    echo    'ui_print("                                                           ");'
     echo    'ui_print("****************************************************");'
 }
 # ]
